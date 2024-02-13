@@ -1,0 +1,1 @@
+### Esta aplicación simple muestra un mapa de Google Maps utilizando la biblioteca de Google Maps. Es un proyecto ideal para principiantes que quieren aprender a usar Ionic y Google Maps.

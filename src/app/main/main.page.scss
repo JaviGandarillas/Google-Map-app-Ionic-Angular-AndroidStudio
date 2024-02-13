@@ -1,0 +1,48 @@
+ion-button {
+    --background: #14272b;
+    --background-hover: #darkcyan;
+    --background-activated: #88f4be;
+    --background-focused: #88f4be;
+  
+    --color: rgb(240, 238, 214);
+    --font-size: 20px;
+    --font-weight: 1000;
+    --border-radius: 20px;
+    --border-color: #000;
+    --border-style: none;
+    --border-width: 1px;
+  
+    --box-shadow: 0 2px 20px 0 rgb(219 248 232);
+  
+    --ripple-color: rgb(189, 251, 255);
+  
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+  }
+
+  .toolbar-container{
+    --background-color: lightgray;
+  }
+  .ion-header{
+    --background: lightgray ;
+  }
+
+  .custom-alert {
+    --background: #f2f2f2;
+    --border-radius: 10px;
+  }
+  
+  .custom-alert-header {
+    background-color: #ff0000; /* Color de fondo del encabezado */
+    color: #fff; /* Color del texto del encabezado */
+  }
+  
+  .custom-alert-message {
+    color: #333; /* Color del mensaje */
+  }
+  capacitor-google-map {
+    display: inline-block;
+    width:  275px;
+    height:  400px;
+  }
+  

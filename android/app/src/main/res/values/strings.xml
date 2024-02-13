@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">prueba-instacrops</string>
+    <string name="title_activity_main">prueba-instacrops</string>
+    <string name="package_name">cl.javi.prueba.instacrops</string>
+    <string name="custom_url_scheme">cl.javi.prueba.instacrops</string>
+</resources>

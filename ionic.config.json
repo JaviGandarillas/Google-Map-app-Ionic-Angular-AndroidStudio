@@ -1,0 +1,8 @@
+{
+  "name": "prueba-instacrops",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}

@@ -1,0 +1,13 @@
+<ion-header [translucent]="true">
+  <ion-toolbar  color="#ba5454;" class="" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #14272b; height: 80px; box-shadow: 0 2px 20px 0 rgb(219 248 232); color: antiquewhite;">
+    <ion-title style=" font-weight: 300; text-align: center; font-size: 30px;">Prueba Instacrops</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content color="primary" [fullscreen]="true" style="background-color: bisque;">
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;  background-image: linear-gradient(to bottom left, #085b76, #000000);">
+    <ion-button style="font-weight: 400; width: 75%; color: antiquewhite;" (click)="presentAlert()">Mapa</ion-button>
+    <capacitor-google-map id="map"></capacitor-google-map>
+
+  </div>
+</ion-content>
